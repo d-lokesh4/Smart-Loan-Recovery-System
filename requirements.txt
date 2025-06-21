@@ -3,5 +3,7 @@ pandas
 scikit-learn
 flask
 plotly
+Flask
+gunicorn
 
 
