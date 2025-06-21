@@ -1,3 +1,9 @@
+setuptools>=40.0
+wheel
+Cython>=0.29.0
+numpy>=1.21.0
+pandas==2.0.3
+# ... your other dependencies
 blinker==1.9.0
 click==8.2.1
 Flask==3.1.1
